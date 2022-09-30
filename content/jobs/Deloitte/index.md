@@ -7,7 +7,7 @@ range: 'September 2022 - Current'
 url: 'https://www2.deloitte.com/ca/en/pages/about-deloitte/articles/home.html'
 ---
 
--Deloitte is the largest professional services network by revenue and number of professionals in the world and is considered one of the Big Four accounting firms along with EY, KPMG and PwC.
+- Deloitte is the largest professional services network by revenue and number of professionals in the world and is considered one of the Big Four accounting firms along with EY, KPMG and PwC.
 
 - Stream: ETP-SAP Enterprise Solutions (Core) group
 
