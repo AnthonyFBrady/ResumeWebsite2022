@@ -146,20 +146,20 @@ const About = () => {
             <p>
               Fast-forward to today, and I've had the privilege of working at a{' '}
               <a href="https://evanov.ca/">communications agency</a>,
-              <a href="https://international.humber.ca/">two post-secondary instituions</a>, my own
+              <a href="https://international.humber.ca/">two post-secondary institutions</a>, my own
               company, <a href="https://centreforfacdev.ca/">a research hospital</a>,{' '}
               <a href="https://www.probit.com/en-us/">a start-up</a> in Korea, and currently
               <a href="https://www2.deloitte.com/ca/en/pages/about-deloitte/articles/home.html">
                 the biggest professional services firm
               </a>{' '}
               in the world. My primary focus these days is delivering end-to-end client advisory in
-              Analytics—from business case to blueprinting to go-live—for Fortune 500 companies at
+              analytics—from business case to blueprinting to go-live—for Fortune 500 companies at
               Deloitte.
             </p>
 
             <p>
               {' '}
-              When I am not at work I am either exhausting my hands through bouldering, devouring
+              When I am not at work, I am either exhausting my hands through bouldering, devouring
               every product management or business development{' '}
               <a href="https://www.goodreads.com/user/show/71361171-anthony-brady">audio book</a> I
               can find, or writing a <a href="https://anthonyfrancisbrady.medium.com/">blog</a> on
