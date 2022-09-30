@@ -1,15 +1,14 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Graduate Dissertation'
+cover: './chart1.png'
+external: 'https://drive.google.com/file/d/1Ib-8KnvlJ0tqSil59hcoqALYRU3Ccxrp/view?usp=sharing'
+cta: 'https://drive.google.com/file/d/1Ib-8KnvlJ0tqSil59hcoqALYRU3Ccxrp/view?usp=sharing'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Polynomial Regression
+  - Twitter API
+  - Python
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+I conceptualized a six-stage model that explains the short-term lifecycle of a digitally mediated cancelling
+event on Twitter.
