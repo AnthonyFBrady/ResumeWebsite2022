@@ -1,7 +1,7 @@
 ---
 date: '2021-07-01'
 title: 'Marketing Manager'
-company: 'ProBit Global'
+company: 'ProBit'
 location: 'Seoul, SK'
 range: 'November 2020 - July 2021'
 url: 'https://www.probit.com/en-us/'

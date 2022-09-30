@@ -1,11 +1,13 @@
 ---
 date: '2016-12-01'
 title: 'Communications Coordinator'
-company: 'Humber College'
+company: 'Humber'
 location: 'Toronto, CA'
 range: 'June - December 2016'
 url: 'https://international.humber.ca/'
 ---
+
+- Humber College has a reputation for being one of Canada’s most diverse, comprehensive, and exciting colleges in Canada.
 
 - Led monthly analytics meetings highlighting key international recruitment statistics.
 - Participated in a variety of international recruitment events.
