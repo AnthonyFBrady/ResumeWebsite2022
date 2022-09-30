@@ -7,7 +7,7 @@ module.exports = {
       'Anthony Brady is a tech consultant who specializes in building (and occasionally designing) exceptional product life-cycles.',
     siteUrl: 'https://anthonybrady.ca', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
