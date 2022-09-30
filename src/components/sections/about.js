@@ -145,9 +145,9 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I've had the privilege of working at a{' '}
-              <a href="https://evanov.ca/">communications agency</a>,
-              <a href="https://international.humber.ca/">two post-secondary institutions</a>, my own
-              company, <a href="https://centreforfacdev.ca/">a research hospital</a>,{' '}
+              <a href="https://evanov.ca/">communications agency</a>,{' '}
+              <a href="https://international.humber.ca/"> two post-secondary institutions</a>, my
+              own company, <a href="https://centreforfacdev.ca/">a research hospital</a>,{' '}
               <a href="https://www.probit.com/en-us/">a start-up</a> in Korea, and currently
               <a href="https://www2.deloitte.com/ca/en/pages/about-deloitte/articles/home.html">
                 the biggest professional services firm
