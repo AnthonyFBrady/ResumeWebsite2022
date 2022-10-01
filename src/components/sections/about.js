@@ -137,10 +137,9 @@ const About = () => {
             <p> Hey! </p>
             <p>
               {' '}
-              My name is Anthony and I am energized by turning a vision into value. It was in a
-              previous public relations role after churning out another PR release for the morning,
-              that I began to crave measurable results—a line of work with more objectivity and
-              broader impact.
+              I am energized by turning a vision into value. It was in a previous public relations
+              role after churning out another PR release for the morning, that I began to crave
+              measurable results—a line of work with more objectivity and broader impact.
             </p>
 
             <p>

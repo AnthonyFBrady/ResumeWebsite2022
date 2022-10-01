@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Anthony Brady',
     description:
-      'Anthony Brady is a tech consultant who specializes in building (and occasionally designing) exceptional product life-cycles.',
+      'I utilize data to streamline client operations, identify and mitigate risk, and inform strategic planning for both clients and Deloitte.',
     siteUrl: 'https://anthonybrady.ca', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
