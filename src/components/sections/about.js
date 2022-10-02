@@ -161,9 +161,9 @@ const About = () => {
               {' '}
               When I am not at work, I am either exhausting my hands through bouldering, devouring
               every product management or business development{' '}
-              <a href="https://www.goodreads.com/user/show/71361171-anthony-brady">audio book</a> I
+              <a href="https://www.goodreads.com/user/show/71361171-anthony-brady">audiobook</a> I
               can find, or writing a <a href="https://anthonyfrancisbrady.medium.com/">blog</a> on
-              whatever piqued my curiosity in that moment.
+              whatever piqued my curiosity at that moment.
             </p>
 
             <p>Here are some technologies I have been working with recently:</p>
