@@ -134,7 +134,6 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p> Hey! </p>
             <p>
               {' '}
               I am energized by the process of turning a vision into value. It was in a previous
