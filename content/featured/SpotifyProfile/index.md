@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'LongStoryShort Podcast test'
+title: 'LongStoryShort Podcast'
 cover: './demo.png'
 external: 'https://open.spotify.com/show/5ORIJ0VViR9lKjdZzyLgvI?si=c2f9d83b9b9f42ea&nd=1'
 cta: 'https://open.spotify.com/show/5ORIJ0VViR9lKjdZzyLgvI?si=c2f9d83b9b9f42ea&nd=1'
