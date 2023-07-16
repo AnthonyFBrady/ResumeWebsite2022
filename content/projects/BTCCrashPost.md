@@ -5,7 +5,7 @@ type: 'Article'
 github: ''
 external: 'https://medium.com/probit-exchange/bitcoins-may-19-correction-is-similar-to-2017-or-is-it-7d62172ebe7d'
 tech:
-  - Market Analysiis
+  - Market Analysis
   - Market Correction
 company: 'ProBit Global'
 showInProjects: true
