@@ -7,7 +7,7 @@ range: 'January - April 2022'
 url: 'https://centreforfacdev.ca/'
 ---
 
-- The Centre for Faculty Development (CFD) is a partnership between Unity Health Toronto and the University of Toronto’s Temerty Faculty of Medicine.
+<span style="color: #b8c2e2;">The Centre for Faculty Development (CFD) is a partnership between Unity Health Toronto and the University of Toronto’s Temerty Faculty of Medicine.</span><br/><br/>
 
 - St. Michael's Unit/Service Area: Research
 

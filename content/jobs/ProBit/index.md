@@ -7,7 +7,8 @@ range: 'November 2020 - July 2021'
 url: 'https://www.probit.com/en-us/'
 ---
 
-- ProBit Global is an international Top 20 crypto exchange in real daily trading volume that has successfully completed over 200 rounds of IEO.
+<span style="color: #b8c2e2;">ProBit Global is an international Top 20 crypto exchange in real daily trading volume that has successfully completed over 200 rounds of IEO.</span><br/><br/>
+
 - Developed press releases and newsletters for new IEO listings, ProBit Exclusive events, and token listings published on numerous digital media outlets (CoinCodex, ZyCrypto, CoinCheckup).
 - Reflected on key performance metrics, including CTR, read-time, bounce rate, and follower growth, to elevate future messaging content and structure.
 - Produced technical writing for Medium with cryptocurrency, blockchain, and macroeconomic themes with the intent to grow the Medium profile and drive more investment and traffic towards ProBit Exchange.

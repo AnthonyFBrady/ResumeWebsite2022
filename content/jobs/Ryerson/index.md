@@ -7,7 +7,7 @@ range: 'August 2021 - April 2022'
 url: 'https://www.torontomu.ca/'
 ---
 
-- Toronto Metropolitan University (formally Ryerson University) is a public research university located in Toronto, Ontario, Canada.
+<span style="color: #b8c2e2;">Toronto Metropolitan University (formally Ryerson University) is a public research university located in Toronto, Ontario, Canada.</span><br/><br/>
 
 - CMN 432: Communication in the Engineering Professions | Supervisor: Dr. Mudry & Dr. Seko.
 - Evaluated and graded student examinations and drafted constructive criticism regarding their adherence to professional communication best practices and their abilities to distill abstract problems and identify key issues.

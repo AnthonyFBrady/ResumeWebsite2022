@@ -7,7 +7,7 @@ range: 'June - December 2016'
 url: 'https://international.humber.ca/'
 ---
 
-- Humber College has a reputation for being one of Canada’s most diverse, comprehensive, and exciting colleges in Canada.
+<span style="color: #b8c2e2;">Humber College has a reputation for being one of Canada’s most diverse, comprehensive, and exciting colleges in Canada.</span><br/><br/>
 
 - Led monthly analytics meetings highlighting key international recruitment statistics.
 - Participated in a variety of international recruitment events.

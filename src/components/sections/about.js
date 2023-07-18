@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'HTML', 'CSS', 'WordPress'];
+  const skills = ['SAP', 'ServiceNow', 'Agile'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -158,14 +158,12 @@ const About = () => {
 
             <p>
               {' '}
-              When I am not at work, I am either exhausting my hands through bouldering, devouring
-              every product management or business development{' '}
-              <a href="https://www.goodreads.com/user/show/71361171-anthony-brady">audiobook</a> I
-              can find, or writing an <a href="https://anthonyfrancisbrady.medium.com/">article</a>{' '}
-              on whatever piqued my curiosity at that moment.
+              When I am not at work, I am either exhausting my hands through bouldering, pursuing my
+              triathlon or strength training goals, advancing my Korean language ability, or seeking
+              new perspectives through philosophy.
             </p>
 
-            <p>Here are some technologies I have been working with recently:</p>
+            <p> Here are some technologies and methods I have been working with recently:</p>
           </div>
 
           <ul className="skills-list">

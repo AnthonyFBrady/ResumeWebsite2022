@@ -7,7 +7,7 @@ range: 'March 2018 - September 2020'
 url: 'https://jelkaseals.com/'
 ---
 
-- JSL is a plastic manufacturing company which uses quality-engineered materials to manufacture plastic seals and foot valves required for the mining industry.
+<span style="color: #b8c2e2;">JSL is a plastic manufacturing company which uses quality-engineered materials to manufacture plastic seals and foot valves required for the mining industry.</span><br/><br/>
 
 - Designed company banners, brochures, business cards, t-shirts, and logos using Adobe Photoshop/Illustrator to enhance the brand image and acquire new clients.
 - Drafted product descriptions and bolstered sales through online outlets (Amazon). A new product saw an 800% increase in total sales following the implementation of multiple new strategies/tactics.

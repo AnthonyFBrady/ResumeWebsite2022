@@ -3,8 +3,8 @@ module.exports = {
 
   socialMedia: [
     {
-      name: 'GitHub',
-      url: 'https://github.com/AnthonyFBrady',
+      name: 'HackerNoon',
+      url: 'https://hackernoon.com/u/anthonybrady',
     },
     {
       name: 'Linkedin',
