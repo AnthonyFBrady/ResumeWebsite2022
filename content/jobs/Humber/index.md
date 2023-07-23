@@ -9,8 +9,6 @@ url: 'https://international.humber.ca/'
 
 <span style="color: #b8c2e2;">Humber College has a reputation for being one of Canada’s most diverse, comprehensive, and exciting colleges in Canada.</span><br/><br/>
 
-- Led monthly analytics meetings highlighting key international recruitment statistics.
-- Participated in a variety of international recruitment events.
-- Assisted in the development of the web content and layout of the new Humber International website.
-- Trained employees how to use a variety of web applications for website design and social media tracking.
-- Drafted daily writing tasks for the Humber International blog, the Humber College newspaper, Humber International website, and various social media platforms.
+- Optimized Humber international recruitment initiatives, as measured by increased engagement from target countries, by presenting **actionable analytics** monthly to leadership
+
+- Reinforced the Humber International brand by assisting in the development of the new [Humber International website](https://international.humber.ca/) and drafting newspaper and blog content.

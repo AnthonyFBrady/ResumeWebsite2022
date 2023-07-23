@@ -9,6 +9,4 @@ url: 'https://evanov.ca/'
 
 <span style="color: #b8c2e2;">Evanov Communications is a Canadian radio broadcasting company and is the sole owner of Dufferin Communications Inc., 80% owner of Halifax Broadcasting Ltd. and Ottawa Media Inc.<br/><br/>
 
-- Developed numerous types of marketing material (logos, brochures, advertisements, and social media layouts).
-- Managed Z103.5 and Proud FM’s social media pages.
-- Worked on a variety of time-sensitive design and writing projects.
+- Developed marketing material (logos, brochures, advertisements, and social media layouts) for Z103.5 and Proud FM using Photoshop

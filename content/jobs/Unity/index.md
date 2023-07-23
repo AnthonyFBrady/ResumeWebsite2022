@@ -11,5 +11,9 @@ url: 'https://centreforfacdev.ca/'
 
 - St. Michael's Unit/Service Area: Research
 
-- Supported the development of a communication strategy (and associated tools) in an effort to bolster stakeholder awareness and understanding concerning the CFD's usage of personal information for research and employee development.
-- Lead the development of a web platform for the evaluation and implementation science lab created to increase the reach of newly published research within the medical community and interested parties.
+- Achieved successful knowledge mobilization for a **diverse audience of scholars and clinicians**, by
+  leading the development of a web-based resource on evaluation and implementation science.
+  Website content and structure were informed by interviews with CFD leadership where what they
+  should do to reach their desired outcome, as opposed to what they want to do, was identified.
+- Provided practical **communication strategy support** for The Centre for Faculty Development (CFD)
+  research and evaluation activities by creating creative **virtual resources** ([videos](https://www.youtube.com/watch?v=TWqZhSjFf9c&ab_channel=LongStoryShort)) and **work products**.

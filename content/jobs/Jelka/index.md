@@ -9,8 +9,6 @@ url: 'https://jelkaseals.com/'
 
 <span style="color: #b8c2e2;">JSL is a plastic manufacturing company which uses quality-engineered materials to manufacture plastic seals and foot valves required for the mining industry.</span><br/><br/>
 
-- Designed company banners, brochures, business cards, t-shirts, and logos using Adobe Photoshop/Illustrator to enhance the brand image and acquire new clients.
-- Drafted product descriptions and bolstered sales through online outlets (Amazon). A new product saw an 800% increase in total sales following the implementation of multiple new strategies/tactics.
-- Drafted and delivered product proposals to wholesale distributors while coordinating logistics and negotiating compensation.
-- Designed the new Jelka Seals website using WordPress and drafted all website copy included within the website to enhance company credibility.
-- Created client acquisition and customer inquiry templates for untrained staff when communicating with customers or potential clients.
+- Successfully wholesaled a new product (**800% increase in sales**) through the [Ontario Cannabis Store](https://ocs.ca/products/pre-roll-tube-alltrapod) (OCS) through compelling company banners, brochures, business cards, product proposals, [website design](https://jelkaseals.com/), and logos using Adobe Photoshop/Illustrator.
+
+- Improved employee customer communication and acquisition skills by creating user-friendly client acquisition and customer inquiry templates, empowering new team members to effectively engage with customers and potential clients.
