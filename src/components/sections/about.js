@@ -140,11 +140,14 @@ const About = () => {
               my &quot;Why,&quot; an underlying philosophical foundation that would illustrate why I
               work and live the way that I do. &quot;Why&quot; would further inform my
               decision-making when determining a career path that aligns with who I am and where I
-              would deliver the most value. My deep, abiding interest in recognizing areas of
-              improvement in the gym, with my brand, and at work, then developing a plan to
-              transform these weaknesses into strengths, and then practising data-informed iteration
-              led me to identifying with &quot;Turning Visons Into Value&quot; and to contemplate
-              the Product Management discipline.
+              would deliver the most value.
+            </p>
+            <p>
+              My deep, abiding interest in recognizing areas of improvement in the gym, with my
+              brand, and at work, then developing a plan to transform these weaknesses into
+              strengths, and then practising data-informed iteration led me to identifying with
+              &quot;Turning Visons Into Value&quot; and to contemplate the Product Management
+              discipline.
             </p>
 
             <p>
