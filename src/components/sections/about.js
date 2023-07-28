@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['SAP', 'ServiceNow', 'Agile'];
+  const skills = ['SAP', 'ServiceNow', 'Agile', 'Python'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -156,9 +156,8 @@ const About = () => {
               <a href="https://www2.deloitte.com/ca/en/pages/about-deloitte/articles/home.html">
                 the biggest professional services firm
               </a>{' '}
-              in the world. My primary focus these days is delivering end-to-end client advisory in
-              analytics—from business case to blueprinting to go-live—for Fortune 500 companies at
-              Deloitte.
+              in the world. My primary focus these days is delivering end-to-end client advisory
+              —from business case to blueprinting to go-live—for Fortune 500 companies at Deloitte.
             </p>
 
             <p>
