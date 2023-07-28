@@ -136,10 +136,15 @@ const About = () => {
           <div>
             <p>
               {' '}
-              I am energized by the process of turning a vision into value. It was in a previous
-              public relations role after churning out another PR release for the morning, that I
-              began to crave measurable results—a line of work with more objectivity and broader
-              impact.
+              While living in South Korea I undertook a path of self-reflection designed to identify
+              my &quot;Why,&quot; an underlying philosophical foundation that would illustrate why I
+              work and live the way that I do. &quot;Why&quot; would further inform my
+              decision-making when determining a career path that aligns with who I am and where I
+              would deliver the most value. My deep, abiding interest in recognizing areas of
+              improvement in the gym, with my brand, and at work, then developing a plan to
+              transform these weaknesses into strengths, and then practising data-informed iteration
+              led me to identifying with &quot;Turning Visons Into Value&quot; and to contemplate
+              the Product Management discipline.
             </p>
 
             <p>
