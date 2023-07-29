@@ -139,8 +139,8 @@ const About = () => {
               While living in South Korea I undertook a path of self-reflection designed to identify
               my &quot;Why,&quot; an underlying philosophical foundation that would illustrate why I
               work and live the way that I do. &quot;Why&quot; would further inform my
-              decision-making when determining a career path that aligns with who I am and where I
-              would deliver the most value.
+              decision-making when determining a career path that aligns with what I enjoy doing and
+              where I would deliver the most value.
             </p>
             <p>
               My deep, abiding interest in recognizing areas of improvement in the gym, with my
@@ -155,19 +155,21 @@ const About = () => {
               <a href="https://evanov.ca/">communications agency</a>,{' '}
               <a href="https://international.humber.ca/"> two post-secondary institutions</a>, my
               own company, <a href="https://centreforfacdev.ca/">a research hospital</a>,{' '}
-              <a href="https://www.probit.com/en-us/">a start-up</a> in Korea, and currently
+              <a href="https://www.probit.com/en-us/">a start-up</a> in Korea, and currently the
+              biggest{' '}
               <a href="https://www2.deloitte.com/ca/en/pages/about-deloitte/articles/home.html">
-                the biggest professional services firm
+                professional services firm
               </a>{' '}
-              in the world. My primary focus these days is delivering end-to-end client advisory
-              —from business case to blueprinting to go-live—for Fortune 500 companies at Deloitte.
+              in the world. My primary focus these days is delivering end-to-end client
+              advisory—from business case to blueprinting to go-live—for Fortune 500 companies at
+              Deloitte.
             </p>
 
             <p>
               {' '}
-              When I am not at work, I am either exhausting my hands through bouldering, pursuing my
-              triathlon or strength training goals, advancing my Korean language ability, or seeking
-              new perspectives through philosophy.
+              When I am not at work, I am pursuing my passions of bouldering, strength and triathlon
+              training, advancing my Korean language ability, or seeking new perspectives through
+              philosophy.
             </p>
 
             <p> Here are some technologies and methods I have been working with recently:</p>
