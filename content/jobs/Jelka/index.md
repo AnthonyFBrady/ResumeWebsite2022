@@ -1,6 +1,6 @@
 ---
 date: '2020-09-01'
-title: 'Marketing Associate'
+title: 'Marketing Associate - Product Manufacturing'
 company: 'Jelka Seals'
 location: 'Mississauga, CA'
 range: 'March 2018 - September 2020'

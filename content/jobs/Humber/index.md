@@ -1,6 +1,6 @@
 ---
 date: '2016-12-01'
-title: 'Communications Coordinator'
+title: 'Communications Internship - International Dept.'
 company: 'Humber'
 location: 'Toronto, CA'
 range: 'June - December 2016'

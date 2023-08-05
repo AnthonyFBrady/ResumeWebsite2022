@@ -1,6 +1,6 @@
 ---
 date: '2016-08-01'
-title: 'Communications Coordinator'
+title: 'Communications Internship'
 company: 'Evanov'
 location: 'Toronto, CA'
 range: 'May - August 2016'

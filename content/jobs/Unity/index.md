@@ -1,6 +1,6 @@
 ---
 date: '2022-04-01'
-title: 'Communications Manager'
+title: 'Communications Coordinator - Research Unit'
 company: 'Unity Health'
 location: 'Toronto, CA'
 range: 'January - April 2022'

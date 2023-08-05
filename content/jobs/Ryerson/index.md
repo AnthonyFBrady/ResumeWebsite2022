@@ -1,6 +1,6 @@
 ---
 date: '2022-04-01'
-title: 'Graduate Assistant'
+title: 'Graduate Assistant - Communication for Engineers'
 company: 'TMU'
 location: 'Toronto, CA'
 range: 'August 2021 - April 2022'

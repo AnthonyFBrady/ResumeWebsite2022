@@ -1,6 +1,6 @@
 ---
 date: '2022-09-01'
-title: 'Consultant, SAP - Enterprise Technology and Performance'
+title: 'Consultant, SAP - ETP, Program Management'
 company: 'Deloitte'
 location: 'Toronto, CA'
 range: 'September 2022 - Current'
