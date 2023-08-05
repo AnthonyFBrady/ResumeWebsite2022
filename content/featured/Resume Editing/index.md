@@ -1,6 +1,6 @@
 ---
 date: '5'
-title: 'Resume & Cover Letter Design'
+title: 'Resume & Cover Letter Consulting'
 cover: './picture.jpg'
 external: https://anthonybrady.ca/#projects
 cta: https://anthonybrady.ca/#projects
