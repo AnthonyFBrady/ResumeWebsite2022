@@ -1,9 +1,9 @@
 ---
-date: '2020-05-01'
+date: '2020-10-01'
 title: 'Contributing Writer'
 company: 'Seoulz'
 location: 'Seoul, SK'
-range: 'November 2019 - May 2020'
+range: 'November 2019 - Oct 2020'
 url: 'https://www.seoulz.com/author/anthony-brady/'
 ---
 
