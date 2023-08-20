@@ -10,4 +10,4 @@ tech:
   - Diminishing Returns
 ---
 
-I completed a product management case requiring me to maximize a fictional companies run rate revenue 12 months from now. I create an excel table and made numerous assumptions to come to a conclusion.
+I completed a product management case requiring me to maximize a fictional companies run rate revenue 12 months from now. I created an excel table and made numerous assumptions to come to a conclusion.
