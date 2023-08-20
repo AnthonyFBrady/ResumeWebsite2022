@@ -11,4 +11,4 @@ tech:
   - Excel
 ---
 
-We analyzed a “mobile phone rating” data sheet that includes 223 unique values, using sensitivity analysis (SA), correlation analysis (CA), and multiple linear regression to determine the ideal selling price based on the technical specifications.
+We analyzed a “mobile phone rating” data sheet that includes 223 unique values, using sensitivity analysis, correlation analysis, and multiple linear regression to determine the ideal selling price based on the technical specifications.
