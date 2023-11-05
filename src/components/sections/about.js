@@ -167,9 +167,10 @@ const About = () => {
 
             <p>
               {' '}
-              When I am not at work, I am pursuing my passions of bouldering, strength and triathlon
-              training, advancing my Korean language ability, or seeking new perspectives through
-              philosophy.
+              When not immersed in my professional endeavors, I enjoy spending quality time with
+              friends, family, and my partner while also pursuing my other passions such as
+              intensive strength and triathlon training, bouldering, continuously honing my Korean
+              language proficiency, and exploring new philosophical perspectives.
             </p>
 
             <p> Here are some technologies and methods I have been working with recently:</p>
