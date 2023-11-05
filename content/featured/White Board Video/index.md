@@ -10,4 +10,4 @@ tech:
   - Illustrator
 ---
 
-- The Centre for Faculty Development (CFD) is a partnership between Unity Health Toronto and the University of Toronto’s Temerty Faculty of Medicine. This video is played at conferences to explain how the CFD uses participant data.
+The Centre for Faculty Development (CFD) is a partnership between Unity Health Toronto and the University of Toronto’s Temerty Faculty of Medicine. This video is played at conferences to explain how the CFD uses participant data.
